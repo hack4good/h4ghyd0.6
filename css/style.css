@@ -308,6 +308,9 @@ a:hover {
 /*===========================
   --- Sections ----
 =========================== */
+#section-services {
+	padding: 180px 0 60px 0;
+}
 
 section.section {
 	margin:0;
@@ -434,7 +437,7 @@ section.featured {
 	padding: 200px 0 0 60px;
 	background: #70B9B0;
 	color: #fdfdfd;
-	margin-top:100px;
+	/*margin-top:150px;*/
 }
 
 section.featured h2.slogan {
